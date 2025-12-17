@@ -44,9 +44,6 @@ const EditTask:React.FC<TaskProps> = ({task}) => {
             </form>
         </Modal>
     </div>
-    
-    
-
   )
 }
 

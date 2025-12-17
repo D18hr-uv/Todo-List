@@ -3,8 +3,6 @@ import { ITask } from "@/types/tasks";
 import EditTask from "./EditTask";
 import DeleteTask from "./DeleteTask";
 
-
-
 interface TaskProps {
     task : ITask
 }
